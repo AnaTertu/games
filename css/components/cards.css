@@ -1,0 +1,16 @@
+.cards{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.card{
+    max-width: 18rem;
+}
+
+.card{
+    border-color: #90a955;
+}
+
+.card-img-top{
+   object-fit: cover;
+   height: 200px; 
+}
